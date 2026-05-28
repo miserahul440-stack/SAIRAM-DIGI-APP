@@ -1,0 +1,6 @@
+{
+  "name": "SAIRAM DigiSeva",
+  "description": "Digital Service Platform for Maharashtra Citizens - एकदा Register करा, सर्व फॉर्म आमच्यावर सोडा",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
